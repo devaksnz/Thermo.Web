@@ -3,9 +3,11 @@
 
 # AzCloud.Web.Ux
 
-## Setup
+## Setup Angular Front End 
 
 Goto ClientApp 
+
+cd src/ClientApp
 
 Run the following command 
 

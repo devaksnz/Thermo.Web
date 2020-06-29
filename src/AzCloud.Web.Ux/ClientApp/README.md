@@ -4,7 +4,13 @@
 
 Goto ClientApp 
 
-Run "npm install" 
+Run the following command 
+
+--npm install -g @angular/cli
+
+--npm install -g tsc 
+
+--npm install
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
